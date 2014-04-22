@@ -1,4 +1,15 @@
 $body-bg: #2ecc71;
-$navbar-inverse-bg: #27ae60;
-$navbar-inverse-link-color: white;
+$font-family-sans-serif: 'Lato', Helvetica;
+$navbar-height: 45px;
+$navbar-default-bg: white;
+$navbar-default-brand-color: #C0392B;
+$brand-primary: #c0392b;
+
 @import 'bootstrap';
+
+.center {
+	text-align: center;
+}
+.navbar-brand {
+	font-weight: bold;
+}
