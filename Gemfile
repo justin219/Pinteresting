@@ -21,7 +21,7 @@ gem 'jbuilder', '~> 2.0'
 gem 'bootstrap-sass'
 gem 'devise'
 gem "paperclip", :git => "git://github.com/thoughtbot/paperclip.git"
-gem 'aws-sdk', '~> 1.20.0'
+gem 'aws-sdk'
 gem 'masonry-rails'
 gem 'will_paginate', '~> 3.0'
 gem 'will_paginate-bootstrap'
