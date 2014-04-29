@@ -20,7 +20,7 @@ gem 'jbuilder', '~> 2.0'
 gem 'bootstrap-sass'
 gem 'devise'
 gem "paperclip", :git => "git://github.com/thoughtbot/paperclip.git"
-
+gem 'aws-sdk', '~> 1.20.0'
 group :development, :test do
      gem 'sqlite3'
 end
